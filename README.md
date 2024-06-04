@@ -2,6 +2,8 @@
 Improved Entrance Door Warning when an enemy is nearby the door. If the enemy is dead it tells you.
 
 # Changes
+- V1.0.1
+	- Support for V50 release 
 - V1.0.0
 	- Initial Release 
 

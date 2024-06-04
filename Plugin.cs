@@ -10,7 +10,7 @@ namespace BetterDoorWarning
 		public static BetterDoorWarning instance;
 		private const string GUID = "BetterDoorWarning";
 		private const string NAME = "BetterDoorWarning";
-		private const string VERSION = "1.0.0";
+		private const string VERSION = "1.0.1";
 
 		public static void Log(string message)
 		{

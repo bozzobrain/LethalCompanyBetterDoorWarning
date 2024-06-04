@@ -1,8 +1,8 @@
 {
   "name": "BetterDoorWarning",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/bozzobrain/LethalCompanyBetterDoorWarning/releases",
-  "description": "Remove 'Near activity detected' when enemy near door is deadzo",
+  "description": "Improve 'Near activity detected'. Tell's you if an enemy is alive or deadzo",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ]
